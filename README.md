@@ -1,2 +1,2 @@
 # git-practicas
-repositorio de pruebas capacitacion
+Ejercicio de practicas de integracion de Pedro Jesus Gonzalez Araujo
